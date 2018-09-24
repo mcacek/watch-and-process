@@ -1,0 +1,6 @@
+{
+    "queueClient": {
+        "queueUrl": "https://sqs.eu-west-1.amazonaws.com/account-id/queue-name",
+        "region": "eu-west-1"
+    }
+}

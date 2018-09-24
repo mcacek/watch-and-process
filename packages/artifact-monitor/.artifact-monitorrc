@@ -1,0 +1,4 @@
+{
+    "baseDir": "/home/michaelcacek/Code/watch-and-process/wap-test",
+    "ignorePaths": "./archived/*"
+}

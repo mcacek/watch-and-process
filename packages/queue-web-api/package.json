@@ -1,16 +1,18 @@
 {
-  "name": "artifact-monitor",
+  "name": "queue-web-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "2.0.4",
     "debug": "^4.0.1",
+    "fastify": "^1.11.2",
+    "queue-client": "^1.0.0",
     "rc": "^1.2.8"
   }
 }

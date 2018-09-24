@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "debug": "4.0.1",
-    "sqs-consumer": "3.8.0"
+    "sqs-consumer": "3.8.0",
+    "sqs-producer": "^1.6.2"
   }
 }

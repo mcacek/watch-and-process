@@ -1,5 +1,5 @@
 {
-  "name": "artifact-monitor",
+  "name": "config-loader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "2.0.4",
-    "debug": "^4.0.1",
+    "dotenv": "^6.0.0",
     "rc": "^1.2.8"
   }
 }
