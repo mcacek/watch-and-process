@@ -1,5 +1,6 @@
 const rc = require('rc');
 const dotEnv = require('dotenv');
+const debug = require('debug')('watch-and-process:config-loader');
 
 const dotEnvConfig = dotEnv.
 
